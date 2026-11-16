@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kepçe Havuz: havuz bakım paketinizi onay kutularıyla kurun, su yüzeyi alanına göre aylık bütçeyi görün, keşif randevusu ya da geri arama isteyin. Demo site; fiyatlar kurgusal, görseller temsilîdir.",
+    "en": "Kepçe Havuz: build your pool care package with checkboxes, see the monthly budget for your water surface area and book a site visit or a call-back. Demo site; prices are fictional, images are representative.",
+    "ar": "كبتشه هافوز: كوّن باقة صيانة مسبحك بمربعات الاختيار، واطّلع على الميزانية الشهرية حسب مساحة سطح الماء، واحجز معاينة أو اطلب معاودة الاتصال. موقع تجريبي؛ الأسعار افتراضية والصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "havuz bakım paketi, havuz servisi, su analizi, filtre ters yıkama, sezon açılışı, kış kapatma",
+    "en": "pool care package, pool service, water testing, filter backwash, season opening, winterising",
+    "ar": "باقة صيانة المسبح، خدمة المسابح، تحليل المياه، الغسيل العكسي للفلتر، افتتاح الموسم، الإغلاق الشتوي"
+  },
+  "category": "Kurumsal",
+  "name": "Kepçe Havuz",
+  "domain": "havuzservis-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "rubik",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#C2410C",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "6px",
+    "--mx-radius-md": "10px",
+    "--mx-radius-lg": "14px",
+    "--mx-radius-xl": "19px"
+  },
+  "icon": "icon.png"
+}

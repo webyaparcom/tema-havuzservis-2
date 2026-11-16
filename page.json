@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "id": "etay8kbknn",
+      "name": {
+        "tr": "Paketler",
+        "en": "Packages",
+        "ar": "الباقات"
+      },
+      "description": {
+        "tr": "Onay kutulu bakım paketi ve aylık bütçe hesabı; fiyatlar kurgusal.",
+        "en": "Checkbox care package and monthly budget calculator; prices are fictional.",
+        "ar": "باقة صيانة بمربعات الاختيار وحاسبة الميزانية الشهرية؛ الأسعار افتراضية."
+      },
+      "path": "hizmetler",
+      "icon": "playlist_add_check",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "77k9fj",
+          "s4ajou"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Servis",
+        "en": "Service",
+        "ar": "الخدمة"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "t7efs0",
+          "s4ajou"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Bir sezonun servis kaydı (kurgusal).",
+        "en": "A season’s service log (fictional).",
+        "ar": "سجل خدمة موسم واحد (افتراضي)."
+      }
+    },
+    {
+      "id": "uf6ya2dzsy",
+      "name": {
+        "tr": "Keşif",
+        "en": "Visit",
+        "ar": "المعاينة"
+      },
+      "description": {
+        "tr": "En yakın boş keşif saatini seçin (demo).",
+        "en": "Pick the nearest free site-visit slot (demo).",
+        "ar": "اختر أقرب موعد معاينة متاح (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "event_available",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "u7ym7v"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 3,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "stv9mg",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

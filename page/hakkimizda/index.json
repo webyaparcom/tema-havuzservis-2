@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Servis",
+    "en": "Service",
+    "ar": "الخدمة"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "t7efs0",
+      "s4ajou"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Bir sezonun servis kaydı (kurgusal).",
+    "en": "A season’s service log (fictional).",
+    "ar": "سجل خدمة موسم واحد (افتراضي)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Servis",
+    "en": "Service",
+    "ar": "الخدمة"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T22:37:19.146Z",
+  "date": "2026-10-30"
+}

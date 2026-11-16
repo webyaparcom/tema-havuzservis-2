@@ -1,0 +1,39 @@
+{
+  "id": "uf6ya2dzsy",
+  "name": {
+    "tr": "Keşif",
+    "en": "Visit",
+    "ar": "المعاينة"
+  },
+  "description": {
+    "tr": "En yakın boş keşif saatini seçin (demo).",
+    "en": "Pick the nearest free site-visit slot (demo).",
+    "ar": "اختر أقرب موعد معاينة متاح (تجريبي)."
+  },
+  "keyword": {
+    "tr": "keşif, randevu",
+    "en": "site visit, appointment",
+    "ar": "معاينة، موعد"
+  },
+  "path": "teklif-al",
+  "icon": "event_available",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "u7ym7v"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Keşif",
+    "en": "Visit",
+    "ar": "المعاينة"
+  },
+  "date": "2026-11-16T22:34:10.438Z",
+  "update": "2026-11-16T22:37:19.153Z"
+}
