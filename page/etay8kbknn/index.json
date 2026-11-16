@@ -1,0 +1,40 @@
+{
+  "id": "etay8kbknn",
+  "name": {
+    "tr": "Paketler",
+    "en": "Packages",
+    "ar": "الباقات"
+  },
+  "description": {
+    "tr": "Onay kutulu bakım paketi ve aylık bütçe hesabı; fiyatlar kurgusal.",
+    "en": "Checkbox care package and monthly budget calculator; prices are fictional.",
+    "ar": "باقة صيانة بمربعات الاختيار وحاسبة الميزانية الشهرية؛ الأسعار افتراضية."
+  },
+  "keyword": {
+    "tr": "havuz bakım paketi, fiyat",
+    "en": "pool care package, price",
+    "ar": "باقة صيانة المسبح، سعر"
+  },
+  "path": "hizmetler",
+  "icon": "playlist_add_check",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "77k9fj",
+      "s4ajou"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Paketler",
+    "en": "Packages",
+    "ar": "الباقات"
+  },
+  "date": "2026-11-16T22:34:10.417Z",
+  "update": "2026-11-16T22:37:19.131Z"
+}
