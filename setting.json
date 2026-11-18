@@ -4,12 +4,16 @@
   "description": {
     "tr": "Kepçe Havuz: havuz bakım paketinizi onay kutularıyla kurun, su yüzeyi alanına göre aylık bütçeyi görün, keşif randevusu ya da geri arama isteyin. Demo site; fiyatlar kurgusal, görseller temsilîdir.",
     "en": "Kepçe Havuz: build your pool care package with checkboxes, see the monthly budget for your water surface area and book a site visit or a call-back. Demo site; prices are fictional, images are representative.",
-    "ar": "كبتشه هافوز: كوّن باقة صيانة مسبحك بمربعات الاختيار، واطّلع على الميزانية الشهرية حسب مساحة سطح الماء، واحجز معاينة أو اطلب معاودة الاتصال. موقع تجريبي؛ الأسعار افتراضية والصور تمثيلية."
+    "ar": "كبتشه هافوز: كوّن باقة صيانة مسبحك بمربعات الاختيار، واطّلع على الميزانية الشهرية حسب مساحة سطح الماء، واحجز معاينة أو اطلب معاودة الاتصال. موقع تجريبي؛ الأسعار افتراضية والصور تمثيلية.",
+    "de": "Kepçe Havuz: Stellen Sie Ihr Pool-Pflegepaket über Checkboxen zusammen, sehen Sie das monatliche Budget basierend auf der Wasseroberfläche und buchen Sie einen Besichtigungstermin oder einen Rückruf. Demo-Seite; Preise sind fiktiv, Bilder sind repräsentativ.",
+    "ru": "Kepçe Havuz: соберите пакет обслуживания бассейна с помощью флажков, посмотрите ежемесячный бюджет в зависимости от площади водной поверхности и запишитесь на осмотр или обратный звонок. Демо-сайт; цены вымышленные, изображения иллюстративные."
   },
   "keyword": {
     "tr": "havuz bakım paketi, havuz servisi, su analizi, filtre ters yıkama, sezon açılışı, kış kapatma",
     "en": "pool care package, pool service, water testing, filter backwash, season opening, winterising",
-    "ar": "باقة صيانة المسبح، خدمة المسابح، تحليل المياه، الغسيل العكسي للفلتر، افتتاح الموسم، الإغلاق الشتوي"
+    "ar": "باقة صيانة المسبح، خدمة المسابح، تحليل المياه، الغسيل العكسي للفلتر، افتتاح الموسم، الإغلاق الشتوي",
+    "de": "Pool-Pflegepaket, Poolservice, Wasseranalyse, Filterrückspülung, Saisonöffnung, Winterisierung",
+    "ru": "Пакет ухода за бассейном, обслуживание бассейна, анализ воды, обратная промывка фильтра, открытие сезона, консервация на зиму"
   },
   "category": "Kurumsal",
   "name": "Kepçe Havuz",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

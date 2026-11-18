@@ -3,17 +3,23 @@
   "name": {
     "tr": "Keşif",
     "en": "Visit",
-    "ar": "المعاينة"
+    "ar": "المعاينة",
+    "de": "Besichtigung",
+    "ru": "Осмотр"
   },
   "description": {
     "tr": "En yakın boş keşif saatini seçin (demo).",
     "en": "Pick the nearest free site-visit slot (demo).",
-    "ar": "اختر أقرب موعد معاينة متاح (تجريبي)."
+    "ar": "اختر أقرب موعد معاينة متاح (تجريبي).",
+    "de": "Wählen Sie den nächsten freien Besichtigungstermin (Demo).",
+    "ru": "Выберите ближайшее свободное время для осмотра (демо)."
   },
   "keyword": {
     "tr": "keşif, randevu",
     "en": "site visit, appointment",
-    "ar": "معاينة، موعد"
+    "ar": "معاينة، موعد",
+    "de": "Erkundung, Termin",
+    "ru": "обследование, запись"
   },
   "path": "teklif-al",
   "icon": "event_available",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Keşif",
     "en": "Visit",
-    "ar": "المعاينة"
+    "ar": "المعاينة",
+    "de": "Besichtigung",
+    "ru": "Осмотр"
   },
   "date": "2026-11-16T22:34:10.438Z",
   "update": "2026-11-16T22:37:19.153Z"
