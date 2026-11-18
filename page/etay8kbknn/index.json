@@ -3,17 +3,23 @@
   "name": {
     "tr": "Paketler",
     "en": "Packages",
-    "ar": "الباقات"
+    "ar": "الباقات",
+    "de": "Pakete",
+    "ru": "Пакеты"
   },
   "description": {
     "tr": "Onay kutulu bakım paketi ve aylık bütçe hesabı; fiyatlar kurgusal.",
     "en": "Checkbox care package and monthly budget calculator; prices are fictional.",
-    "ar": "باقة صيانة بمربعات الاختيار وحاسبة الميزانية الشهرية؛ الأسعار افتراضية."
+    "ar": "باقة صيانة بمربعات الاختيار وحاسبة الميزانية الشهرية؛ الأسعار افتراضية.",
+    "de": "Pflegepaket mit Checkbox und monatlicher Budgetberechnung; Preise sind fiktiv.",
+    "ru": "Пакет ухода с чекбоксами и калькулятором месячного бюджета; цены вымышленные."
   },
   "keyword": {
     "tr": "havuz bakım paketi, fiyat",
     "en": "pool care package, price",
-    "ar": "باقة صيانة المسبح، سعر"
+    "ar": "باقة صيانة المسبح، سعر",
+    "de": "Pool-Wartungspaket, Preis",
+    "ru": "пакет обслуживания бассейна, цена"
   },
   "path": "hizmetler",
   "icon": "playlist_add_check",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Paketler",
     "en": "Packages",
-    "ar": "الباقات"
+    "ar": "الباقات",
+    "de": "Pakete",
+    "ru": "Пакеты"
   },
   "date": "2026-11-16T22:34:10.417Z",
   "update": "2026-11-16T22:37:19.131Z"

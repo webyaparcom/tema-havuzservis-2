@@ -2,7 +2,9 @@
   "name": {
     "tr": "Servis",
     "en": "Service",
-    "ar": "الخدمة"
+    "ar": "الخدمة",
+    "de": "Service",
+    "ru": "Сервис"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Bir sezonun servis kaydı (kurgusal).",
     "en": "A season’s service log (fictional).",
-    "ar": "سجل خدمة موسم واحد (افتراضي)."
+    "ar": "سجل خدمة موسم واحد (افتراضي).",
+    "de": "Servicenachweis einer Saison (fiktiv).",
+    "ru": "Сервисная история одного сезона (вымышленная)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Servis",
     "en": "Service",
-    "ar": "الخدمة"
+    "ar": "الخدمة",
+    "de": "Service",
+    "ru": "Сервис"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T22:37:19.146Z",

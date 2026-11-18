@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Havuz bakımını, müşterinin kendi seçtiği kalemlerden oluşan açık fiyatlı bir pakete dönüştürmek.</p>",
     "en": "<h2>Our mission</h2>\n<p>To turn pool care into an openly priced package made of the items the client chooses.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>تحويل صيانة المسبح إلى باقة بأسعار واضحة تتكوّن من البنود التي يختارها العميل.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>تحويل صيانة المسبح إلى باقة بأسعار واضحة تتكوّن من البنود التي يختارها العميل.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Die Poolpflege in ein Paket mit transparentem Preis zu verwandeln, das aus den vom Kunden selbst gewählten Positionen besteht.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Превратить уход за бассейном в пакет с прозрачной ценой, состоящий из позиций, выбранных самим клиентом.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T22:34:10.088Z",
   "update": "2026-11-16T22:37:19.178Z",
